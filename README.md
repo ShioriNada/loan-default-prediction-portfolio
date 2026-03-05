@@ -1,2 +1,3 @@
 # loan-default-prediction-portfolio
-Loan default prediction portfolio using Logistic Regression and Random Forest.
+
+This repository contains a Jupyter Notebook demonstrating loan default prediction using Logistic Regression and Random Forest, including data cleaning, feature engineering, model evaluation, and business insights.
